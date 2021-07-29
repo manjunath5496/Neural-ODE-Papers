@@ -108,7 +108,7 @@ Semi-Markov Decision Processes with Neural ODEs</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(58).pdf" style="text-decoration:none;">Recurrent Neural Networks in the Eye of Differential Equations</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(59).pdf" style="text-decoration:none;">Neural Rough Differential Equations for Long Time Series</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(60).pdf" style="text-decoration:none;">On the diculty of training Recurrent Neural Networks </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(60).pdf" style="text-decoration:none;">On the difficulty of training Recurrent Neural Networks </a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(61).pdf" style="text-decoration:none;">Opening the Blackbox: Accelerating Neural Differential Equations by Regularizing Internal Solver Heuristics</a></li>
  
