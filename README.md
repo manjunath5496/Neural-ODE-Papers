@@ -97,34 +97,33 @@ Semi-Markov Decision Processes with Neural ODEs</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(53).pdf" style="text-decoration:none;">Deep Equilibrium Models</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(54).pdf" style="text-decoration:none;">"Hey, that's not an ODE": Faster ODE Adjoints via Seminorms </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(55).pdf" style="text-decoration:none;">Maximum Principle Based Algorithms for Deep Learning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(56).pdf" style="text-decoration:none;">Symplectic ODE-Net: Learning Hamiltonian Dynamics with Control </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(57).pdf" style="text-decoration:none;">Review: Ordinary Differential Equations For Deep Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(58).pdf" style="text-decoration:none;">Recurrent Neural Networks in the Eye of Differential Equations</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(59).pdf" style="text-decoration:none;">Neural Rough Differential Equations for Long Time Series</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(60).pdf" style="text-decoration:none;">On the diculty of training Recurrent Neural Networks </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(61).pdf" style="text-decoration:none;">Opening the Blackbox: Accelerating Neural Differential Equations by Regularizing Internal Solver Heuristics</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(62).pdf" style="text-decoration:none;">Equivariant Flows: sampling configurations for multi-body systems with symmetric energies</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(63).pdf" style="text-decoration:none;">Fast and Deep Graph Neural Networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(64).pdf" style="text-decoration:none;">Neural Controlled Differential Equations for Irregular Time Series</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(65).pdf" style="text-decoration:none;">Towards Robust and Stable Deep Learning
+Algorithms for Forward Backward Stochastic Differential Equations </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(66).pdf" style="text-decoration:none;">System Identification with Time-Aware Neural Sequence Models</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-ODE-Papers/blob/master/n(67).pdf" style="text-decoration:none;">Score-Based Generative Modeling through Stochastic Differential Equations</a></li>                              
 
   </ul>
     
